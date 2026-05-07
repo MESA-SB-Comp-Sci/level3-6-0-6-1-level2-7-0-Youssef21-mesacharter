@@ -5,3 +5,49 @@
 }
 
 /* write all your rules below */
+
+.heading {
+    display: flex;
+    width: 80vw;
+    height: 10vh;
+    justify-content: flex-start;
+    align-items: flex-start;
+    background-color: pink;
+    margin: 5%;
+    border: solid 10px red;
+}
+
+.box1 {
+    display: flex;
+    width: 80vw;
+    height: 40vh;
+    justify-content: flex-start;
+    align-items: center;
+    padding: 5%;
+    background-color: turquoise;
+    margin: 2%;
+}
+
+.box2 {
+    display: flex;
+    width: 70vw;
+     height: 20vh;
+    border: solid 8px pink;
+    background-color: yellow;
+    justify-content: flex-start;
+    align-items: flex-start;
+    margin: 5%;
+
+}
+
+.blue {
+    color: blue;
+}
+
+.green {
+    color: green;
+}
+
+.purple {
+    color: purple;
+}
